@@ -12,3 +12,5 @@ A Imersão Dados da Alura é para quem quer acelerar os conhecimentos em Ciênci
 
 ## Aulas e Desafios
 ### [Aula01 - ANÁLISE DE DADOS, PYTHON, PANDAS E NOVOS FÁRMACO](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula_01.ipynb)
+
+### [AULA 2: ESTATÍSTICAS, VISUALIZAÇÃO DE DADOS E DISTRIBUIÇÕES](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula02.ipynb)
