@@ -15,4 +15,8 @@ A Imersão Dados da Alura é para quem quer acelerar os conhecimentos em Ciênci
 
 ### [AULA 2: ESTATÍSTICAS, VISUALIZAÇÃO DE DADOS E DISTRIBUIÇÕES](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula02.ipynb)
 
-### [AULA 3: CORRELAÇÕES, CAUSALIDADE E RELAÇÕES ENTRE GENES.](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula_03.ipynb)
+### [AULA 3: CORRELAÇÕES, CAUSALIDADE E RELAÇÕES ENTRE GENES](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula_03.ipynb)
+
+### [AULA 04: MERGE DE DADOS E ANÁLISE DE RESULTADOS](https://github.com/LucasDatilioCarderelli/ImersaoDados3/blob/main/Aula_04.ipynb)
+
+### [AULA 5: MACHINE LEARNING, SCI-KIT LEARNING E DESAFIOS ENVOLVIDOS]()
